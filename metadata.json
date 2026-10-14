@@ -1,0 +1,6 @@
+{
+  "name": "Smart Public Allocator",
+  "description": "Civic guidance platform helping citizens find verified public services, prepare document checklists in English & Telugu, and optimize staff workload using classical allocation algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
